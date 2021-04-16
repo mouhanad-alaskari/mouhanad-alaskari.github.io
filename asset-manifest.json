@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mouhanad-alaskari/static/css/main.e8c24495.chunk.css",
-    "main.js": "/mouhanad-alaskari/static/js/main.b0d24bfb.chunk.js",
-    "main.js.map": "/mouhanad-alaskari/static/js/main.b0d24bfb.chunk.js.map",
-    "runtime-main.js": "/mouhanad-alaskari/static/js/runtime-main.7e878254.js",
-    "runtime-main.js.map": "/mouhanad-alaskari/static/js/runtime-main.7e878254.js.map",
-    "static/js/2.5f887cf4.chunk.js": "/mouhanad-alaskari/static/js/2.5f887cf4.chunk.js",
-    "static/js/2.5f887cf4.chunk.js.map": "/mouhanad-alaskari/static/js/2.5f887cf4.chunk.js.map",
-    "index.html": "/mouhanad-alaskari/index.html",
-    "precache-manifest.13cd1b669fbac088634496f606902b7c.js": "/mouhanad-alaskari/precache-manifest.13cd1b669fbac088634496f606902b7c.js",
-    "service-worker.js": "/mouhanad-alaskari/service-worker.js",
-    "static/css/main.e8c24495.chunk.css.map": "/mouhanad-alaskari/static/css/main.e8c24495.chunk.css.map",
-    "static/js/2.5f887cf4.chunk.js.LICENSE.txt": "/mouhanad-alaskari/static/js/2.5f887cf4.chunk.js.LICENSE.txt"
+    "main.css": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/css/main.e8c24495.chunk.css",
+    "main.js": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/main.c398e326.chunk.js",
+    "main.js.map": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/main.c398e326.chunk.js.map",
+    "runtime-main.js": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/runtime-main.66c342e8.js",
+    "runtime-main.js.map": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/runtime-main.66c342e8.js.map",
+    "static/js/2.5f887cf4.chunk.js": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/2.5f887cf4.chunk.js",
+    "static/js/2.5f887cf4.chunk.js.map": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/2.5f887cf4.chunk.js.map",
+    "index.html": "/mouhanad-alaskari/mouhanad-alaskari.github.io/index.html",
+    "precache-manifest.ec07c0e156f5b45739784402d8408dc8.js": "/mouhanad-alaskari/mouhanad-alaskari.github.io/precache-manifest.ec07c0e156f5b45739784402d8408dc8.js",
+    "service-worker.js": "/mouhanad-alaskari/mouhanad-alaskari.github.io/service-worker.js",
+    "static/css/main.e8c24495.chunk.css.map": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/css/main.e8c24495.chunk.css.map",
+    "static/js/2.5f887cf4.chunk.js.LICENSE.txt": "/mouhanad-alaskari/mouhanad-alaskari.github.io/static/js/2.5f887cf4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e878254.js",
+    "static/js/runtime-main.66c342e8.js",
     "static/js/2.5f887cf4.chunk.js",
     "static/css/main.e8c24495.chunk.css",
-    "static/js/main.b0d24bfb.chunk.js"
+    "static/js/main.c398e326.chunk.js"
   ]
 }
